@@ -1,0 +1,4 @@
+name: Dig
+version: '${version}'
+main: dev.jacktrowbridge.dig.Dig
+api-version: '1.20'
